@@ -71,7 +71,7 @@ kmssrpiq syms nmi or rwkrnsra sj prurmf syr qsptnstpr jc syr erx.
 <br><br>
 
 4. <b>Playfair Cipher</b> <sub>&nbsp;&nbsp;(15 points)</sub> <br>  Given a 5x5 matrix for the Playfair cipher:<br><br>
-    a) Calculate the possible keys the Playfair cipher can have (ignore identical encryption results).<br>
+    a) Calculate the possible keys the Playfair cipher can have. Express your answer as an approximate power of 2. (ignore identical encryption results).<br>
     b) Consider identical encryption results. How many effectively unique keys does the Playfair cipher have?<br>
    
 <br><br>
