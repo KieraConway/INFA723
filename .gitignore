@@ -1,0 +1,4 @@
+*.tmp
+*/~*.docx
+*/~*.doc
+scratch*
