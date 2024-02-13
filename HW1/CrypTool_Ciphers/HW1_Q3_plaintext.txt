@@ -1,0 +1,9 @@
+Ciphertext only. One possible attack under these circumstances is the brute-force 
+approach of trying all possible keys. If the key space is very large, this becomes 
+impractical. Thus, the opponent must rely on an analysis of the ciphertext itself, 
+generally applying various statistical tests to it. Known plaintext. The analyst may 
+be able to capture one or more plaintext messages as well as their encryptions. 
+With this knowledge, the analyst may be able to deduce the key on the basis of the 
+way in which the known plaintext is transformed. Chosen plaintext. If the analyst 
+is able to choose the messages to encrypt, the analyst may deliberately pick 
+patterns that can be expected to reveal the structure of the key.

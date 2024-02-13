@@ -1,0 +1,48 @@
+1. match pattern
+AB
+BC
+AC
+
+TH
+HE
+TE
+
+2. found SYRQR - THE*E, Q is probably R/S
+because SYBQ - TH*R if we used R, its probably S and becomes THIS
+2A. we see BS becomes IT so this is probably correct
+
+3. see the word st-tisti--- , which is statistical (m>a, n>c, f>l>
+
+4. -hich > Which (V>W)
+5. ch--se > choose (J>O)
+6.  ci-c--sta-ces > circumstances (p>r, t>u, g>m, i>n)
+7. a--roach > approach (k>p)
+
+5. wa- > was (X>S)
+6. *rute-*orce > brute-force (o>b, c>f)
+7. cipherte-t > ciphertext (w>x)
+8. tr-in- > trying (x>y, h>g)
+9. -e-uce > deduce (a>d)
+10. -nown > known (e>k)
+11. -arious > various (u>v)
+
+
+Ciphertext only. One possible attack under these circumstances is the brute-force approach of trying all possible keys. If the key space is very large, this becomes impractical. Thus, the opponent must rely on an analysis of the ciphertext itself, generally applying various statistical tests to it. Known plaintext. The analyst may be able to capture one or more plaintext messages as well as their encryptions. With this knowledge, the analyst may be able to deduce the key on the basis of the 
+way in which the known plaintext is transformed. Chosen plaintext. If the analyst is able to choose the messages to encrypt, the analyst may deliberately pick patterns that can be expected to reveal the structure of the key. deduce
+the key on the basis of the way in which the known plaintext is transformed.
+\
+
+this is a segmented quote from pages 31-32 of our texbook
+"
+
+
+R - E
+S - T
+M - 
+Q -
+B - 
+I -
+J
+F
+Y - H
+
