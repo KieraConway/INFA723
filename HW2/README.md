@@ -20,15 +20,15 @@
 
 <h2 align="center"> Track A <br></h2>
 
-<i><sub> [view assignment a](https://github.com/KieraConway/INFA723/blob/main/HW1/INFA723%20Track%20A%20Homework%201.doc) </sub></i>
+<i><sub> [view track a](https://github.com/KieraConway/INFA723/tree/main/HW2/Track%20A) </sub></i>
 
 <h3> Lab Overview </h3>
 
 This homework includes 4 labs listed as below:
-- [Lab 1: Set up OpenSSL Testing Environment (Optional if you already have an OpenSSL environment)](#lab-1)
-- Lab 2: OpenSSL Command Line
-- Lab 3: Send/Receive a File through a Socket Connection
-- Lab 4: Use OpenSSL Crypto Library to Encrypt/Decrypt a File and Send/Receive through a Socket Connection
+- [Lab 1: Set up OpenSSL Testing Environment](https://github.com/KieraConway/INFA723/tree/main/HW2/Track%20A/Lab1) <i>(Optional if you already have an OpenSSL environment)</i>
+- [Lab 2: OpenSSL Command Line](https://github.com/KieraConway/INFA723/tree/main/HW2/Track%20A/Lab2)
+- [Lab 3: Send/Receive a File through a Socket Connection](https://github.com/KieraConway/INFA723/tree/main/HW2/Track%20A/Lab3)
+- [Lab 4: Use OpenSSL Crypto Library to Encrypt/Decrypt a File and Send/Receive through a Socket Connection](https://github.com/KieraConway/INFA723/tree/main/HW2/Track%20A/Lab4)
 <br><br>
 
 
@@ -51,12 +51,6 @@ This homework includes 4 labs listed as below:
   - Answer all the questions in each lab.
   - The tutorials in the labs are for your practice.
   - You don’t need to include screenshots for your practice in the homework solution.
+ 
 
-<h3> Lab Details and Instructions </h3>
-
-<h4 id="lab-1">Lab 1</h4>
-The labs require an OpenSSL testing environment. If you already have one, you can skip this lab. Otherwise, choose one of the following options to set up your environment:
-
-Option 1: Set up a Kali Linux testing environment using VMWare Workstation Player.
-Option 2: Use a Linux virtual machine in the DSU IA lab.
-
+<h2 align="center"> Track B <br></h2>
