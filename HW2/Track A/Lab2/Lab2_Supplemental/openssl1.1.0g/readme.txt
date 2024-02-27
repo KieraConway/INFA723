@@ -1,0 +1,1 @@
+Check your OpenSSL version. The encyrption is done using OpenSSL version 1.1.0g.

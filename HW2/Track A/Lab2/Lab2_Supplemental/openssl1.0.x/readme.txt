@@ -1,0 +1,1 @@
+Check your OpenSSL version. The encryption is done using OpenSSL version 1.0.1f. The decryption has been tested in the OpenSSL version 1.0.1f and 1.0.2n.
