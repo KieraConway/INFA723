@@ -20,7 +20,7 @@
 
 <h2 align="center"> Track A <br></h2>
 
-<i><sub> [view assignment a](https://github.com/KieraConway/INFA723/blob/main/HW1/INFA723%20Track%20A%20Homework%201.doc) </sub></i>
+<i><sub> [view track a](https://github.com/KieraConway/INFA723/tree/main/HW1/Track%20A) </sub></i>
 
 
 
@@ -99,7 +99,7 @@ kmssrpiq syms nmi or rwkrnsra sj prurmf syr qsptnstpr jc syr erx.
 
 <h2 align="center"> Track B <br></h2>
 
-<i><sub> [view assignment b](https://github.com/KieraConway/INFA723/blob/main/HW1/INFA723%20Track%20B%20Homework%201.doc) </sub></i>
+<i><sub> [view track b](https://github.com/KieraConway/INFA723/tree/main/HW1/Track%20B) </sub></i>
 
 
 
