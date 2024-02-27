@@ -54,3 +54,19 @@ This homework includes 4 labs listed as below:
  
 
 <h2 align="center"> Track B <br></h2>
+
+<i><sub> [view track b](https://github.com/KieraConway/INFA723/tree/main/HW2/Track%20B) </sub></i>
+
+1. <b>File Classification</b> <sub>&nbsp;&nbsp;(50 points)</sub> <br>  Three binary files are provided in this exercise: q1-file1, q2-file2, and q3-file3. These files include a firmware image, an encrypted file, and a compressed file.<br><br>
+  a. Write a program to classify if a file is encrypted or not.<sub>&nbsp;&nbsp;(20 points)</sub><br>
+  b. Explain what you use in the code to determine if a file is encrypted.<sub>&nbsp;&nbsp;(10 points)</sub><br>
+  c. Identify each file’s category including firmware image, encrypted file, and compressed file.<sub>&nbsp;&nbsp;(10 points)</sub><br>
+  d. If you can identify the compressed file, are you able to identify which algorithm is used to compress the file and un-compress the file.<sub>&nbsp;&nbsp;(10 points)</sub><br>
+
+2. <b>Cipher Decryption</b> <sub>&nbsp;&nbsp;(50 points)</sub> <br> The file cipher.txt is encrypted using the AES algorithm with a key size of 192 and CBC mode of operation. The key and initial vector are provided below:
+    ```
+    key = 0294E7143C2DF135DAEFE9D74DF8BDCC488EDBA8FE5239A8
+    iv = F3BC6E5B281EBF67210CD68837FFDE9A
+    ```
+      a. Write a program to decrypt the cipher.txt. <br>
+      b. Submit a copy of the plaintext you decrypt.<br>
