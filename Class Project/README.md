@@ -5,7 +5,7 @@
 This repository contains the documentation and resources for our INFA723 research project, focusing on leveraging artificial intelligence (AI) in penetration testing (PT). The rapidly evolving cybersecurity landscape, with its complex and labor-intensive strategies, has greatly benefited from the growing prominence of AI technology in recent years. Most notably, AI has proven crucial for cybersecurity endeavors such as PT, as it levels the playing field and enables defenders to effectively anticipate and mitigate threats.
 
 ### Project Deliverables
-- [ ] <b> Due 03/07/24 &emsp;|&emsp; Project Middle Report</b>
+- [x] <b> Due 03/07/24 &emsp;|&emsp; Project Middle Report</b>
   - Format: 
     - 12-point standard font
     - Single column
@@ -20,7 +20,7 @@ This repository contains the documentation and resources for our INFA723 researc
     - Proposed approach to address the issues
     - Verification and testing methods
 <br><br>
-- [ ] <b> Due 04/15/24 &emsp;|&emsp; Project Final Report</b>
+- [ ] <b> Due 04/28/24 &emsp;|&emsp; Project Final Report</b>
   - Format:
     - 12-point standard font
     - Single column
@@ -36,7 +36,7 @@ This repository contains the documentation and resources for our INFA723 researc
     - Comparison
     - Conclusion and discussions
 <br><br>
-- [ ] <b> Due tbd &emsp;|&emsp; Project Project Presentation</b>
+- [ ] <b> Due 04/28/24 &emsp;|&emsp; Project Project Presentation</b>
   - Format: 10-15 slides
 <br><br>
 ### Evaluation Criteria
