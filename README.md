@@ -11,8 +11,8 @@ We will have four homework assignments this semester. For each assignment, you c
 
 
 - [X] <b> Due 02/13/24 &emsp;|&emsp; Homework 1<br> </b>
-  - [Track A](https://github.com/KieraConway/INFA723/blob/main/HW1/INFA723%20Track%20A%20Homework%201.pdf)
-  - [Track B](https://github.com/KieraConway/INFA723/blob/main/HW1/INFA723%20Track%20B%20Homework%201.pdf)
+  - [Track A](https://github.com/KieraConway/INFA723/blob/main/HW1/Track%20A/INFA723%20Track%20A%20Homework%201.pdf)
+  - [Track B](https://github.com/KieraConway/INFA723/blob/main/HW1/Track%20B/INFA723%20Track%20B%20Homework%201.pdf)
 
 - [X] <b> Due XX/XX/24 &emsp;|&emsp; Homework 2 <br> </b>
   - [Track A](https://github.com/KieraConway/INFA723/blob/main/HW2/Track%20A/INFA723%20Track%20A%20Homework2.pdf)
